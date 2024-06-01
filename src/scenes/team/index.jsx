@@ -68,7 +68,7 @@ export const Team = () => {
 
   return (
     <Box m="20px">
-      <Header title="Team" subTitle="Managing the Team Members" />
+      <Header title="TEAM" subTitle="Managing the Team Members" />
       <Box
         m="40px 0 0 0"
         height="75vh"
